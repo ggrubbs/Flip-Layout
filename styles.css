@@ -1,0 +1,352 @@
+
+#background
+{
+    height: 800px;
+    width: 1280px;
+    background-image: url("./images/background.png");
+}
+
+#title
+{
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    margin: 115px 0 0 175px;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+#container
+{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 170px;
+    height: 375px;
+    width: 920px;
+}
+
+/*<----------------------------------------->*/
+
+#b1
+{
+    width: 150px;
+    margin: 0 10px 10px 0;
+    height: 150px;
+    float: left;
+}
+
+#b1 .front
+{
+    background-color: #3387ea;
+}
+
+#b1 .front img
+{
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+#b1 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+#b1 .back
+{
+    background: url('./images/house.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b2
+{
+    width: 150px;
+    margin: 0 10px 10px 0;
+    height: 150px;
+    float: left;
+}
+
+#b2 .front
+{
+    background-color: #f9be3e;
+}
+
+#b2 .front img
+{
+    margin-left: 50px;
+    margin-top: 33px;
+}
+
+#b2 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+#b2 .back
+{
+    background: url('./images/profile.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b3
+{
+    width: 280px;
+    margin: 0 10px 10px 0;
+    height: 150px;
+    float: left;
+}
+
+#b3 .front
+{
+    background-color: #d3573e;
+}
+
+#b3 .front img
+{
+    margin-left: 108px;
+    margin-top: 38px;
+}
+
+#b3 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+#b3 .back
+{
+    background: url('./images/portfolio.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b4
+{
+    width: 150px;
+    margin: 0 10px 10px 0;
+    height: 150px;
+    float: left;
+}
+
+#b4 .front
+{
+    background-color: #59b0e2;
+}
+
+#b4 .front img
+{
+    margin-left: 50px;
+    margin-top: 38px;
+}
+
+#b4 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 24px;
+}
+
+#b4 .back
+{
+    background: url('./images/photosfood.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b5
+{
+    width: 150px;
+    margin: 0 0 10px 0;
+    height: 150px;
+    float: left;
+}
+
+#b5 .front
+{
+    background-color: #33af95;
+}
+
+#b5 .front img
+{
+    margin-left: 47px;
+    margin-top: 45px;
+}
+
+#b5 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 24px;
+}
+
+#b5 .back
+{
+    background: url('./images/testimonials.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b6
+{
+    width: 310px;
+    margin: 0 10px 10px 0;
+    height: 150px;
+    float: left;
+}
+
+#b6 .front
+{
+    background-color: #86a73f;
+}
+
+#b6 .front img
+{
+    margin-left: 130px;
+    margin-top: 33px;
+}
+
+#b6 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 16px;
+}
+
+#b6 .back
+{
+    background: url('./images/hire.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b7 img
+{
+    float: left;
+}
+
+#b7
+{
+    width: 441px;
+    margin: 0 10px 10px 0;
+    height: 150px;
+    float: left;
+    background-color: #151a26;
+}
+
+#b7 h1
+{
+    margin: 15px 0 0 20px;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    float: left;
+    font-weight: 100;
+}
+
+#b7 h2
+{
+    margin: 50px 0 0 170px;
+    color: white;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+#b7 p
+{
+    margin: 15px 0 0 170px;
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+/*<----------------------------------------->*/
+
+#b8
+{
+    width: 149px;
+    height: 150px;
+    float: left;
+    margin-bottom: 10px;
+}
+
+#b8 .front
+{
+    background-color: #7e5b8c;
+}
+
+#b8 .front img
+{
+    margin-left: 42px;
+    margin-top: 45px;
+}
+
+#b8 .front div
+{
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    font-family: sans-serif;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+#b8 .back
+{
+    background: url('./images/post.jpg') center;
+    background-size: cover;
+}
+
+/*<----------------------------------------->*/
+
+#b9
+{
+    float: left;
+    margin-right: 10px;
+}
+
+/*<----------------------------------------->*/
+
+#b10
+{
+    float: left;
+    margin-right: 10px;
+}
+
+/*<----------------------------------------->*/
+
+#b11
+{
+    float: left;
+}
